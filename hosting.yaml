@@ -1,0 +1,10 @@
+payload:
+  - 'DOMAIN-SUFFIX,cloudflare.com'
+  - 'DOMAIN-SUFFIX,cloudflareaccess.com'
+  - 'DOMAIN-SUFFIX,cloudflareapps.com'
+  - 'DOMAIN-SUFFIX,cloudflareinsights.com'
+  - 'DOMAIN-SUFFIX,cloudflarestorage.com'
+  - 'DOMAIN-SUFFIX,cloudflarestream.com'
+  - 'DOMAIN-SUFFIX,digitaloceanspaces.com'
+  - 'DOMAIN-SUFFIX,hetzner.com'
+  - 'DOMAIN-SUFFIX,play.hosting'
