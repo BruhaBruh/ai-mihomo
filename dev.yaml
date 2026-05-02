@@ -15,3 +15,6 @@ payload:
   - 'DOMAIN-SUFFIX,react.gg'
   - 'DOMAIN-SUFFIX,gofiber.io'
   - 'DOMAIN-SUFFIX,zod.dev'
+  - 'DOMAIN-SUFFIX,strapidemo.com'
+  - 'DOMAIN-SUFFIX,strapi.io'
+  - 'DOMAIN-SUFFIX,kotlinorm.com'
