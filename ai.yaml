@@ -4,3 +4,6 @@ payload:
   - 'DOMAIN-SUFFIX,deepl.com'
   - 'DOMAIN-SUFFIX,claude.ai'
   - 'DOMAIN-SUFFIX,gemini.google.com'
+  - 'DOMAIN-SUFFIX,x.ai'
+  - 'DOMAIN-SUFFIX,grok.com'
+  - 'DOMAIN-SUFFIX,oaiusercontent.com'
