@@ -18,3 +18,5 @@ payload:
   - 'DOMAIN-SUFFIX,strapidemo.com'
   - 'DOMAIN-SUFFIX,strapi.io'
   - 'DOMAIN-SUFFIX,kotlinorm.com'
+  - 'DOMAIN-SUFFIX,nuxt.com'
+  - 'DOMAIN-SUFFIX,gitbook.io'

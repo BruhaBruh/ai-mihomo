@@ -16,3 +16,6 @@ payload:
   - 'DOMAIN-SUFFIX,x.com'
   - 'DOMAIN-SUFFIX,twimg.com'
   - 'DOMAIN-SUFFIX,medium.com'
+  - 'DOMAIN-SUFFIX,twitch.tv'
+  - 'DOMAIN-SUFFIX,ttvnw.net'
+  - 'DOMAIN-SUFFIX,live-video.net'
